@@ -1,2 +1,3 @@
 # CPF-generator
-Simple CPF Generator
+
+**CPF Generator, the same base can generate CNPJ, RG or random numbers**
